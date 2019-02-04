@@ -1,5 +1,4 @@
-package MyRepl_it;
-import java.util.Arrays;
+package Arrayss;
 
 		/*
 		 * Given a String array arr with the following elements
